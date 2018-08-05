@@ -77,7 +77,7 @@ For more information on Kirby Users please access the Kirby Documents around [Us
 Clicking edit will allow you to edit aspects of your account, changing passwords, adding names and changing your role. 
 
 ### Pages
-Most of your time and energy will go into editting the Pages tab of the website. It is not recommended to add more top-level pages as it could mess up the navigation of the site. Within Pages, the page spent the most time editting will be the Archive. Here will be where you add projects, update content and add images. 
+Most of your time and energy will go into editing the Pages tab of the website. It is not recommended to add more top-level pages as it could mess up the navigation of the site. Within Pages, the page spent the most time editing will be the Archive. Here will be where you add projects, update content and add images. 
 
     Pages are by default made invisble, they can be previewed and are issued a template to follow upon creation. The template used entirely at this point will be the "Cases" template with writing being from an outdated version of the site. 
 
@@ -86,10 +86,10 @@ If you need to learn more about all the options available within Kirby Text, the
 ### Resource
 For more on the Panel, visit the [Kirby Doc] (https://getkirby.com/docs/panel)
 
-## Editting Assets 
-While this folder will very rarely be editted, I'm sure there may be small tweaks you want to make. 
+## Editing Assets 
+While this folder will very rarely be edited, I'm sure there may be small tweaks you want to make. 
 
-### Editting CSS
+### Editing CSS
 To edit the CSS, go to the following
 
 ``` 
@@ -99,7 +99,7 @@ Assets > CSS
 In here the main file you may edit will be the main.css. There are about 7,000 lines of code here so opening it up can be very daunting. Having a web inspector open, looking at what line what you want to edit is on and then finding that line in your IDE is the most efficient way to make changes. Some changes such as color or font however, can be more difficult to make with many elements using these. 
 
 
-### Editting Javascript 
+### Editing Javascript 
 Editing the Javascript is more rare than the CSS. While CSS will be the Assets folder, the JS used for this site is NOT in the Assets folder. It is actually found here: 
 
 
@@ -110,9 +110,9 @@ Site > Snippets > Footer.PHP
 Within here, you'll find a script tag with all the Javascript & jQuery used for the site. 
 
 
-## Editting the Site
+## Editing the Site
 
-Editting the Site Folder is not recommended to be done without a strong knowledge of the Kirby API. Within the Site Folder, there will be a lot of subfolders, the main ones to edit will be:
+Editing the Site Folder is not recommended to be done without a strong knowledge of the Kirby API. Within the Site Folder, there will be a lot of subfolders, the main ones to edit will be:
 
 ```
 Blueprints
@@ -155,7 +155,7 @@ This should run a local version of the site on your computer. From here, the sam
 
 * Having made the site, contacting Kevin Cadena would be a good option to reach out to regarding changes to the site and can be reached at hello@kevincadena.com 
 
-* Besides Kevin, there is also a forum specifically for Kirby that is staffed with admins and helpers whose job is to answer questions about devleopment. [Link] (https://forum.getkirby.com/)
+* Besides Kevin, there is also a forum specifically for Kirby that is staffed with admins and helpers whose job is to answer questions about devleopment. [Link](https://forum.getkirby.com/)
 
 
 
@@ -168,8 +168,8 @@ This should run a local version of the site on your computer. From here, the sam
 
 ## Authors
 
-**Angeline Gragasin** - *Owner, Direction & Content* - [Portfolio](http://angelinegragasin.com/)
-**Kevin Cadena** - *Design & Development* - [Portfolio](http://kevincadena.com/)
+* **Angeline Gragasin** - *Owner, Direction & Content* - [Portfolio](http://angelinegragasin.com/)
+* **Kevin Cadena** - *Design & Development* - [Portfolio](http://kevincadena.com/)
 
 
 
